@@ -7,7 +7,7 @@ rh._.exports(defaultTopic);
 rh.consts('DEFAULT_TOPIC', encodeURI("SnagIt_Help_File/SnagIt_Capturing.htm"));
 rh.consts('HOME_FILEPATH', encodeURI('index.htm'));
 rh.consts('START_FILEPATH', encodeURI('topic.htm'));
-rh.consts('HELP_ID', 'db6a1b5c-ea66-463e-a2fa-51e82f7afbf1' || 'preview');
+rh.consts('HELP_ID', 'c2dbf530-fd86-48f9-bcba-b97521759a79' || 'preview');
 rh.consts('LNG_SUBSTR_SEARCH', 0);
 
 model.publish(rh.consts('KEY_LNG_NAME'), "en");
