@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Full screen"]],"1":[[" ","Full screen"]],"2":[[" ","What It does:"," Capturing the entire desktop."," ","Explanation",": This option captures everything that is currently visible on your monitor. It’s useful when you want to capture multiple applications or display an entire desktop setup in a screenshot."," ","Tool Option:"]],"id":"7"})

@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"SnagIt Capturing","type":"book","tilePath":"","key":"toc1"},{"name":"SnagIt Editor","type":"book","tilePath":"","key":"toc2"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

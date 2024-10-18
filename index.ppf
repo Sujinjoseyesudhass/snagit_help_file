@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="SnagIt" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="SnagIt_Help_File\SnagIt_Capturing.htm">
+    
+    <topic>
+      SnagIt_Help_File\SnagIt_Capturing.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\Region.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\Windows.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\Full_screen.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\Scrolling.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\Automatic_scrolling.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\Grab_text.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\Object.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\Multiple_area.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\Menu.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\Clip_board.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\Freehand.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\File.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Editor.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\Arrow.htm
+    </topic>
+    
+    <topic>
+      SnagIt_Help_File\Callouts.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>

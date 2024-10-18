@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Multiple area"]],"1":[[" ","Multiple area"]],"2":[[" ","What It does:"," Capturing several areas of a screen at once."," ","Explanation",": You can select and capture multiple regions of the screen in one go. This is useful when you need to highlight several separate sections of a document or webpage."," ","Tool Option:"]],"id":"15"})

@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Menu"]],"1":[[" ","Menu"]],"2":[[" ","What It does:"," Capturing a dropdown menu."," ","Explanation",": Specifically captures open menus or dropdowns that disappear when you move the cursor. This is ideal for documenting software menu navigation or settings configurations."," ","Tool Option:"]],"id":"10"})

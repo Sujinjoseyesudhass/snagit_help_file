@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","File"]],"1":[[" ","File"]],"2":[[" ","What It does:"," Importing an image from your computer for editing."," ","Explanation",": You can capture and bring in an existing file (such as an image) into Snagit for editing purposes. Instead of capturing from the screen, you directly load an external file to modify."," ","Tool Option:"]],"id":"6"})
