@@ -1,1 +1,1 @@
-rh._.exports({"0":[[" ","Arrow"]],"1":[[" ","Arrow"]],"2":[[" ","hi ","Make sure that the aircraft is safe for maintenance"]],"id":"8"})
+rh._.exports({"0":[[" ","Object"]],"1":[[" ","Object"]],"2":[[" ","What It does:"," Capturing a toolbar."," ","Explanation",": Captures specific UI elements such as buttons, icons, or toolbars within an application. Instead of capturing the entire window, it isolates the desired component, making it easier to document specific interface elements."," ","Tool Option:"]],"id":"8"})
